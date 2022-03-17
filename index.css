@@ -76,16 +76,16 @@ body{
   margin-left: 43%;
 }
 
-container{
+/*container{
   width: 40px;
-}
+}*/
 
 .glass{
   background: none;
   border: 2px solid rgb(233, 228, 228);
   /*font-family: "montserrat", sans-serif;*/
-  padding: 12px 20px;
-  min-width: 100px;
+  padding: 32px;
+  min-width: 40px;
   margin: 10px;
   cursor: pointer;
   transition: color 0.4s linear;
