@@ -76,6 +76,10 @@ body{
   margin-left: 43%;
 }
 
+container{
+  width: 60px;
+}
+
 .glass{
   background: none;
   border: 2px solid rgb(233, 228, 228);
